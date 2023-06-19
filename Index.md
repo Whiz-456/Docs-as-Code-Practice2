@@ -1,9 +1,10 @@
 ---
-Prod_Name: Aptean Product Specification for Food and Beverage
+Title: Aptean Product Specification for Food and Beverage
 
 Version: 1.0
 
 Doc_Name: User Guide
+
 ---
 
 # Welcome to Aptean Product Specification for Food and Beverage
