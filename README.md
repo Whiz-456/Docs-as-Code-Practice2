@@ -27,5 +27,5 @@ The Product Specification Templates list page opens.
 | Field|	Shape Width (cm)|	Decimal|	0.1	|	
 | Field|	Shape Length (cm)|	Decimal|	0.1	|	
 
-[![Organoleptic food]]([https://www.mdpi.com/files/special_issues_graphic_abstract/109027/Graphical%20abstract-revise.jpg](https://mdg.imgix.net/assets/images/san-juan-mountains.jpg?auto=format&fit=clip&q=40&w=1080)https://mdg.imgix.net/assets/images/san-juan-mountains.jpg?auto=format&fit=clip&q=40&w=1080)
+Organoleptic food![Organoleptic food](https://safflab.com/wp-content/uploads/2021/11/%D8%AA%D9%82%D9%8A%D9%8A%D9%85-%D8%A7%D9%84%D8%AE%D8%B5%D8%A7%D8%A6%D8%B5-%D8%A7%D9%84%D8%AD%D8%B3%D9%8A%D8%A9-%D9%84%D9%84%D9%85%D9%86%D8%AA%D8%AC%D8%A7%D8%AA-2.jpg)
 
