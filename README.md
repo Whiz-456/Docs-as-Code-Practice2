@@ -27,4 +27,5 @@ The Product Specification Templates list page opens.
 | Field|	Shape Width (cm)|	Decimal|	0.1	|	
 | Field|	Shape Length (cm)|	Decimal|	0.1	|	
 
+[![Organoleptic food]]([https://www.mdpi.com/files/special_issues_graphic_abstract/109027/Graphical%20abstract-revise.jpg](https://mdg.imgix.net/assets/images/san-juan-mountains.jpg?auto=format&fit=clip&q=40&w=1080)https://mdg.imgix.net/assets/images/san-juan-mountains.jpg?auto=format&fit=clip&q=40&w=1080)
 
