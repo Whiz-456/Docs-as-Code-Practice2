@@ -28,4 +28,4 @@ The Product Specification Templates list page opens.
 | Field|	Shape Length (cm)|	Decimal|	0.1	|	
 
 Organoleptic food![Organoleptic food](https://safflab.com/wp-content/uploads/2021/11/%D8%AA%D9%82%D9%8A%D9%8A%D9%85-%D8%A7%D9%84%D8%AE%D8%B5%D8%A7%D8%A6%D8%B5-%D8%A7%D9%84%D8%AD%D8%B3%D9%8A%D8%A9-%D9%84%D9%84%D9%85%D9%86%D8%AA%D8%AC%D8%A7%D8%AA-2.jpg)
-
+For more information on Organoleptic analysis, visit the [saflab website](https://safflab.com/en/evaluation-of-the-organoleptic-properties-of-products/)
