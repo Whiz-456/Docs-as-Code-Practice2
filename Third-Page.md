@@ -1,6 +1,6 @@
 ---
-nav_order: 3
-parent:
+nav_order: 4
+parent: README
 ---
 
 # SWAPI Reference—Endpoint: /people/
