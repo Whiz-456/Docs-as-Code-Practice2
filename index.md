@@ -2,6 +2,8 @@
 Title: Aptean Product Specification for Food and Beverage
 Version: 1.0
 Doc_Name: User Guide
+nav_order: 2
+parent: Readme
 ---
 
 # Welcome to {{page.Title}}
