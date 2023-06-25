@@ -1,3 +1,8 @@
+---
+nav_order: 1
+parent: index
+---
+
 # Using product specification templates
 A product specification template holds product specification-related data such as Organoleptic properties, Microbiological values related to food contamination, and packaging information like packaging dimension and condition.
 Link the product specification template to items to classify them as raw material, semi-product, packaging item, or an end product.
